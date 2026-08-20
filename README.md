@@ -3,7 +3,7 @@
 # 🎮 Store System 
 
 ![Unity](https://img.shields.io/badge/Unity-6000.0-black.svg?style=flat-square&logo=unity)
-![C#](https://img.shields.io/badge/C%23-10.0-green.svg?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-9.0-green.svg?style=flat-square)
 ![Architecture](https://img.shields.io/badge/Architecture-MVVM-blue.svg?style=flat-square)
 
 A game shop and item system made for Unity. It uses the MVVM architecture and VContainer to completely separate the UI from the game logic.
